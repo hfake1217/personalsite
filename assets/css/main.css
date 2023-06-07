@@ -2016,6 +2016,11 @@ input, select, textarea {
 			padding-left: 0.5em;
 		}
 
+/* About Me Section List */
+.sidebar ul li p {
+	margin: 0;
+}
+
 /* Icons */
 
 	ul.icons {
